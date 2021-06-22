@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Widget project using React and Chakra UI :
+- An Accordion component
+
+- A Wikipedia API search component
+
+- A Dropdown item selection component
+
+- A Google Translate API component
 
 ## Available Scripts
 
